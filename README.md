@@ -1,3 +1,3 @@
 # git100
 
-* Hello World
+**Hey there, how are you?**
