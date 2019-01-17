@@ -8,5 +8,9 @@ class First
 class Second
 {
 	public:
-		int var;
+		int area;
+	int calculate()
+	{
+		
+	}
 }
