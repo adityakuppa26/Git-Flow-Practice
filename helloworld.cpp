@@ -14,3 +14,12 @@ class Second
 		
 	}
 }
+
+class circle
+{
+ public:
+ int r;
+ int area()
+{
+}
+}
