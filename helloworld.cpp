@@ -1,17 +1,18 @@
 cout<<"hello world";
 
-class First
+abstract class shape
 {
 	
 }
 
-class Second
+class area extends shape
 {
 	public:
 		int area;
+		int r;
 	int calculate()
 	{
-		
+		area=4/3*3.142*r*r;
 	}
 }
 
