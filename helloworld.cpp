@@ -9,7 +9,7 @@ class Second
 {
 	public:
 		int area;
-	int calculate()
+	int calc()
 	{
 		
 	}
