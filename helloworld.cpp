@@ -7,5 +7,6 @@ class First
 
 class Second
 {
-	
+	public:
+		int var;
 }
