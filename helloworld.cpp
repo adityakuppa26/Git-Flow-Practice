@@ -14,6 +14,7 @@ class Second
 		
 	}
 }
+
 class Rectangle
 {	int a,b;
 	public:
@@ -23,4 +24,12 @@ class Rectangle
 		area_r = a*b;
 	}
 		
+
+class circle
+{
+ public:
+ int r;
+ int area()
+{
+}
 }
